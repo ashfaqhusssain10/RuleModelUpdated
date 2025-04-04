@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE settings
+.idea/
+.vscode/
+
+# Log files
+*.log
+
+# Backup files
+~$*
+*.bak
+
+# Data files and large binary files
+*.xlsx
+*.csv
+*.pdf
+*.png
+*.pkl
+*.joblib
+
+# Temporary files
+*.tmp
+
+# macOS system files
+.DS_Store
+
+# Environment files
+.env
+venv/
+env/
+
+# Large model files (use Git LFS)
+*.dill
